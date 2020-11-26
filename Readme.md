@@ -1,2 +1,4 @@
 # Zilch Scoreboard
-A simple score keeping utility for the dice game called Zilch.
+A score keeping commandline interface for the dice game called Zilch written in Rust.
+
+Author: Carter Schmidt
